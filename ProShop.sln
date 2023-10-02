@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProShop.API", "ProShop.API\ProShop.API.csproj", "{99F087B0-D8B4-41CD-AA93-D0405F0FC36E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProShop.Core", "ProShop.Core\ProShop.Core.csproj", "{F727CB09-09CC-434F-9E93-A8F7056F8FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F087B0-D8B4-41CD-AA93-D0405F0FC36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F087B0-D8B4-41CD-AA93-D0405F0FC36E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F087B0-D8B4-41CD-AA93-D0405F0FC36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F087B0-D8B4-41CD-AA93-D0405F0FC36E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F727CB09-09CC-434F-9E93-A8F7056F8FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F727CB09-09CC-434F-9E93-A8F7056F8FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F727CB09-09CC-434F-9E93-A8F7056F8FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F727CB09-09CC-434F-9E93-A8F7056F8FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
