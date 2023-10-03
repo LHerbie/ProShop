@@ -1,4 +1,4 @@
-namespace ProShop.Core.Dtos;
+namespace ProShop.Core.DTOs;
 
 public class ProductPostPutDto
 {

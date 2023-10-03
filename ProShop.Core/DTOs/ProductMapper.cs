@@ -1,7 +1,7 @@
 using System.Runtime.Intrinsics.Arm;
 using ProShop.Core.Domain;
 
-namespace ProShop.Core.Dtos;
+namespace ProShop.Core.DTOs;
 
 public static class ProductMapper
 {
