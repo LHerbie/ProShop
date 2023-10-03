@@ -1,0 +1,12 @@
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.AssemblyInfoInputs.cache
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.AssemblyInfo.cs
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.csproj.CoreCompileInputs.cache
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.csproj.AssemblyReference.cache
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/bin/Debug/net7.0/ProShop.Core.deps.json
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/bin/Debug/net7.0/ProShop.Core.dll
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/bin/Debug/net7.0/ProShop.Core.pdb
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.dll
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/refint/ProShop.Core.dll
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ProShop.Core.pdb
+/Users/laraherbst/Documents/Code/ProShop/ProShop.Core/obj/Debug/net7.0/ref/ProShop.Core.dll
