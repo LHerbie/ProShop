@@ -6,12 +6,18 @@ An interactive database for stock management of a pro shop using entity framewor
 
 Open a terminal and enter the following:
 
-```git clone  https://github.com/LHerbie/ProShop.git```
+```
+git clone  https://github.com/LHerbie/ProShop.git
+```
 
 Navigate to the directory containing `ProShop.sln`
 
-```cd ProShop```
+```
+cd ProShop
+```
 
 Run the API project
 
-```dotnet run --project ./ProShop.API/ProShop.API.csproj```
+```
+dotnet run --project ./ProShop.API/ProShop.API.csproj
+```
