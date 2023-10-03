@@ -1,4 +1,4 @@
-namespace ProShop.Core.Domain
+namespace ProShop.Core.Domain;
 
 public class BaseEntity
 {

@@ -1,6 +1,6 @@
-namespace ProShop.Domain.Core
+namespace ProShop.Core.Domain;
 
-public class Product
+public class Product : BaseEntity
 {
     public string Name { get; set; }
     

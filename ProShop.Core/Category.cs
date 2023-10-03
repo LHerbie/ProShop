@@ -1,4 +1,4 @@
-namespace ProShop.Domain.Core
+namespace ProShop.Core.Domain;
 
 public class Category : BaseEntity
 {

@@ -1,5 +1,5 @@
 using ProShop.Core.Domain;
-using ProShop.Core.Dtos;
+using ProShop.Core.DTOs;
 
 namespace ProShop.Core.Application;
 
