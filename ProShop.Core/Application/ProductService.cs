@@ -1,7 +1,7 @@
-using CafeMenu.Core.Domain;
-using CafeMenu.Core.Dtos;
+using ProShop.Core.Domain;
+using ProShop.Core.Dtos;
 
-namespace CafeMenu.Core.Application;
+namespace ProShop.Core.Application;
 
 public class ProductService : IProductService
 {
